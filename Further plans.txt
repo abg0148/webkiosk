@@ -1,0 +1,2 @@
+1. Upgrade the app to scrape user marks and update it on a excel sheet, automatically calculating total grade
+2. notifying user on changes in marks data.
